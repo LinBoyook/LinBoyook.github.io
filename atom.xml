@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://LinBoyook.github.io/"/>
-  <updated>2020-10-08T02:30:47.895Z</updated>
+  <updated>2020-10-09T05:39:15.868Z</updated>
   <id>https://LinBoyook.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://LinBoyook.github.io/2020/10/08/%E6%B5%8B%E8%AF%95/"/>
     <id>https://LinBoyook.github.io/2020/10/08/测试/</id>
     <published>2020-10-08T02:28:42.000Z</published>
-    <updated>2020-10-08T02:30:47.895Z</updated>
+    <updated>2020-10-09T05:39:15.868Z</updated>
     
     <summary type="html">
     
@@ -36,6 +36,8 @@
     
       <category term="国庆" scheme="https://LinBoyook.github.io/tags/%E5%9B%BD%E5%BA%86/"/>
     
+      <category term="悦读" scheme="https://LinBoyook.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+    
   </entry>
   
   <entry>
@@ -43,7 +45,7 @@
     <link href="https://LinBoyook.github.io/2020/10/05/hello-world/"/>
     <id>https://LinBoyook.github.io/2020/10/05/hello-world/</id>
     <published>2020-10-05T15:55:31.368Z</published>
-    <updated>2020-10-05T15:55:31.368Z</updated>
+    <updated>2020-10-09T05:39:12.310Z</updated>
     
     <summary type="html">
     
@@ -57,28 +59,6 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo-Theme-Sakura</title>
-    <link href="https://LinBoyook.github.io/2018/12/12/Hexo-Theme-Sakura/"/>
-    <id>https://LinBoyook.github.io/2018/12/12/Hexo-Theme-Sakura/</id>
-    <published>2018-12-12T14:16:01.000Z</published>
-    <updated>2020-03-15T19:41:30.000Z</updated>
-    
-    <summary type="html">
-    
-      hexo-sakura主题使用教程
-    
-    </summary>
-    
-      <category term="技术" scheme="https://LinBoyook.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="web" scheme="https://LinBoyook.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://LinBoyook.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
