@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://LinBoyook.github.io/"/>
-  <updated>2020-10-09T05:39:15.868Z</updated>
+  <updated>2020-10-09T12:58:13.375Z</updated>
   <id>https://LinBoyook.github.io/</id>
   
   <author>
@@ -17,24 +17,24 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>测试</title>
+    <title>博客测试</title>
     <link href="https://LinBoyook.github.io/2020/10/08/%E6%B5%8B%E8%AF%95/"/>
     <id>https://LinBoyook.github.io/2020/10/08/测试/</id>
     <published>2020-10-08T02:28:42.000Z</published>
-    <updated>2020-10-09T05:39:15.868Z</updated>
+    <updated>2020-10-09T12:58:13.375Z</updated>
     
     <summary type="html">
     
-      这是测试
+      谨以该篇来测试Blog首度运行状况。
     
     </summary>
     
       <category term="技术" scheme="https://LinBoyook.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="中秋" scheme="https://LinBoyook.github.io/tags/%E4%B8%AD%E7%A7%8B/"/>
+      <category term="测试" scheme="https://LinBoyook.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
-      <category term="国庆" scheme="https://LinBoyook.github.io/tags/%E5%9B%BD%E5%BA%86/"/>
+      <category term="诗词" scheme="https://LinBoyook.github.io/tags/%E8%AF%97%E8%AF%8D/"/>
     
       <category term="悦读" scheme="https://LinBoyook.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
